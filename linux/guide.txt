@@ -1,0 +1,1 @@
+java -Xms128m -Xmx40G -jar dblp_y2005_conf100_schema1.jar

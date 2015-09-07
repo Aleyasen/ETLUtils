@@ -1,0 +1,126 @@
+14 AusDM
+98 IQIS
+95 PIKM
+102 XSym
+85 ER (Tutorials, Posters, Panels & Industrial Contributions)
+30 From Integrated Publication and Information Systems to Virtual Information and Knowledge Environments
+7 WWW (Special interest tracks and posters)
+64 APWeb
+78 SIGIR
+29 SSDBM
+48 SPIRE
+46 APCCM
+68 W2GIS
+86 ER (Workshops)
+35 IRCDL
+104 Hypertext
+36 DaWaK
+58 PAKDD
+34 BDA
+26 EDBT Workshops
+32 DG.O
+60 BTW Workshops
+9 MobiDE
+83 ER
+76 ADCS
+80 SBBD
+72 IDEAS
+75 PODS
+27 DaMoN
+121 NLDB
+87 AIRS
+17 ICDE
+19 WISE Workshops
+57 WAIM
+8 World Wide Web
+16 DNIS
+11 MDM
+77 IIiX
+97 CVDB
+66 DEXA
+62 CoLIS
+65 WebDB
+25 WIDM
+10 ECDL
+73 KDID
+79 COMAD
+103 DBPL
+37 ADMA
+12 Mobile Data Management
+100 SACMAT
+113 CORIA
+111 BIOKDD
+110 WEBKDD
+67 ICDM
+70 RIDE
+18 ICDE Workshops
+61 BTW
+38 GeoInfo
+119 CIDR
+28 ICDT
+109 KDD
+23 Databases and Applications
+101 UDM
+107 CIVR
+22 WISE (2)
+47 ECIR
+120 SDM
+4 EDBT
+94 CIKM
+115 DEXA Workshops
+106 XIME-P
+90 ICADL
+50 CAiSE Workshops
+24 WSDM
+54 DBSec
+69 DEEC
+44 ADBIS (local proceedings)
+53 NGITS
+99 DELOS Conference
+118 ICDM Workshops
+51 UMICS
+123 TREC
+112 Secure Data Management
+21 WISE (1)
+3 IQ
+39 SSTD
+40 DILS
+52 EMOI-INTEROP
+82 ISI
+59 SEBD
+108 BPM
+84 ER Workshops
+15 CLEF
+41 JCDL
+5 VLDB
+91 MCD
+92 GIR
+45 FQAS
+71 GIS
+88 ADC
+114 Multimedia Information Systems
+74 PKDD
+93 SIGMOD Conference
+105 DOLAP
+116 DEBS
+81 AIRWeb
+1 LWA
+6 WWW
+31 WImBI
+20 WISE
+49 CAiSE
+117 TES
+13 Selected Papers from AusDM
+55 DMSN
+124 DASFAA
+96 DBISP2P
+63 Infoscale
+43 ADBIS Research Communications
+33 CASCON
+122 INEX
+2 OTM Conferences (1)
+56 APWeb/WAIM
+126 BNCOD
+125 WIRI
+89 LA-WEB
+42 ADBIS
