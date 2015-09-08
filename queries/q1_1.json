@@ -1,0 +1,29 @@
+[
+    {
+        "id": null,
+        "mid": null,
+        "name": null,
+        "language": "English Language",
+        "country": "United States of America",
+        "type": "/film/film",
+        "initial_release_date>=": "%from_date%",
+        "initial_release_date<": "%to_date%",
+        "initial_release_date": null,
+        "directed_by": [{
+                "mid": null,
+                "name": null
+            }],
+        "starring": [{
+                "mid": null,
+                "actor": [{
+                        "mid": null,
+                        "name": null
+                    }],
+                "character": [{
+                        "mid": null,
+                        "name": null
+                    }]
+            }],
+        "limit": 500
+    }
+]

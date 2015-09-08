@@ -1,0 +1,18 @@
+[
+    {
+        "id": null,
+        "mid": null,
+        "name": null,
+        "language": "English Language",
+        "country": "United States of America",
+        "type": "/music/recording",
+        "date_recorded>=": "%from_date%",
+        "date_recorded<": "%to_date%",
+        "initial_release_date": null,
+        "recorded_by": [{
+                "mid": null,
+                "name": null
+            }],
+        "limit": 500
+    }
+]

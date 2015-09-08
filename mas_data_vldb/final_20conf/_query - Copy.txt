@@ -1,0 +1,20 @@
+ICDE
+ICDM
+IDEAL
+KDD
+MLDM
+IADT
+IBM Germany Scientific Symposium Series
+ICDT
+ICEIS
+ICIS
+Information Retrieval
+IuK
+JCDL
+SIGIR
+SPIRE
+IAWTIC
+ICOMP
+ICWE
+ICWS
+IICS
