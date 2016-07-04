@@ -48,7 +48,7 @@ public class DL {
         for (String key : map.keySet()) {
             stb.append(map.get(key).data).append(NEWLINE);
         }
-        IOUtils.writeDataIntoFile(stb.toString(), file);
+        IOUtils.writeDataIntoFile(stb.toString(), file, false);
     }
 
     public DataElement get(String id) {

@@ -53,9 +53,9 @@ public class FreebaseAPI2 {
     
     public static void main(String[] args) {
 //        removeDuplicates(CHARACTER_FILE);
-//        FetchingFromGoogleAPI();
+        FetchingFromGoogleAPI();
 //        getTopKActors(20);
-        filterByTopActors();
+//        filterByTopActors();
         //        System.out.println(getTopKActors(100));
     }
     
@@ -296,7 +296,7 @@ public class FreebaseAPI2 {
         return manipulate_query;
     }
     
-    final static String ROOT_DIR = "C:/Data/freebase/results2/";
+    final static String ROOT_DIR = "data/freebase/temp/";
     
     static String JSON_DUMP_FILE = ROOT_DIR + "dump_json.txt";
     //node files

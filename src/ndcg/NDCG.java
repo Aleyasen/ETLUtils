@@ -17,7 +17,7 @@ import java.util.List;
 
 public class NDCG {
 
-    public static void main(String[] args) {
+    public static void main2(String[] args) {
         String alg = "modpathsim2";
 //        String root = "F:\\Data\\SIGMOD_DATA\\data\\data dblp for effeciency\\random queries";
         String root = "F:\\Data\\SIGMOD_DATA\\data\\data dblp for effeciency\\top queries";
@@ -35,6 +35,11 @@ public class NDCG {
             }
             System.out.println(NDCG.getNDCG(ans_int, 10));
         }
+    }
+
+    public static void main(String[] args) {
+        List<Integer> urls = Arrays.asList(new Integer[]{1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0});
+        System.out.println(NDCG.getNDCG(urls, urls.size()));
     }
 
     public static void example(String[] args) {
